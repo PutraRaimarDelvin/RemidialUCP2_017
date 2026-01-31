@@ -77,10 +77,7 @@ dependencies {
 
     debugImplementation("androidx.compose.ui:ui-tooling")
 
-    // Activity Compose (AMAN)
     implementation("androidx.activity:activity-compose:1.9.0")
-
-    // Navigation Compose (AMAN)
     implementation("androidx.navigation:navigation-compose:2.7.7")
 
 }
